@@ -1,5 +1,4 @@
 django == 3.*
-redis
 pillow
 django-braces
 python-memcached

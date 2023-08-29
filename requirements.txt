@@ -1,0 +1,14 @@
+django == 3.*
+redis
+pillow
+django-braces
+python-memcached
+django-memcache-status
+django-embed-video
+pymemcache
+djangorestframework
+markdown
+django-filter
+requests
+channels == 3.*
+channels-redis
